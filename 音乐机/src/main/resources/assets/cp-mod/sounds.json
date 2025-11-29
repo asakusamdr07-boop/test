@@ -1,0 +1,13 @@
+{
+  "dynamic_disc": {
+    "replace": false,
+    "subtitle": "subtitles.cp-mod.dynamic_disc",
+    "sounds": [
+      {
+        "name": "minecraft:block.note_block.harp",
+        "stream": true,
+        "attenuation_distance": 24
+      }
+    ]
+  }
+}
